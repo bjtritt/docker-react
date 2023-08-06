@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### issues with setting up this project using GitHub Actions and AWS Elastic Beanstalk
+Trying to follow the instructions on the Udemy course did not work. I found this info to fix issue with EBS:
+https://repost.aws/questions/QUySxNIwSCQMW7rlvaoyV8bQ/elastic-beanstalk-unable-to-assume-role-arn-aws-iam-xxxxxxx-role-aws-elasticbeanstalk-service-role-verify-that-the-role-exists-and-is-configured-correctly
